@@ -9,9 +9,9 @@
 
 ## Social Profile:
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-sirimalla-b33990229/)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-sirimalla-699426304/)
 
-[![text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswini-2002?tab=repositories)
+[![text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh099?tab=repositories)
 
 ## Languages:
 ![C++-#FF9800](https://github.com/Tejaswini-2002/Tejaswini_Sirimalla/assets/97162347/57f0a431-bc9c-4068-83dc-cee14792e8ea)
