@@ -1,9 +1,9 @@
-##                   👋 Hola!! I'm Tejaswini Sirimalla 
+##                   👋 Hola!! I'm Akhilesh Sirimalla 
 
 
  
 
-- 👩‍🎓 I'm pursuing B.Tech in Electronics and Communication Engineering at Visveswaraya National Institute of Technology, Nagpur.
+- 👩‍🎓 I'm pursuing B.Tech in Electronics and Communication Engineering at Kakatiya Institute of Technology & Science, Warangal, Telangana.
 
 
 
